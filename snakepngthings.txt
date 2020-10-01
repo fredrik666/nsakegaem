@@ -1,0 +1,7 @@
+apple.png = 15 x 15px
+
+snake.png = 15 x 15px
+
+gameover screen = 600 x 450px
+
+menu = 600 x 450px
